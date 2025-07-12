@@ -13,4 +13,5 @@ This project provides a comprehensive analysis of e-commerce sales data, offerin
 
 
 # Output
-<img width="1282" height="725" alt="image" src="https://github.com/user-attachments/assets/1a1334ee-4873-4729-9437-3a7d99808276" />
+<img width="1281" height="722" alt="image" src="https://github.com/user-attachments/assets/e3889d47-6322-4c96-8136-7001ccb08c24" />
+
